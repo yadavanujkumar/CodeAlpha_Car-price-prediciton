@@ -28,10 +28,6 @@ The analysis and model development are documented in the `analysis.ipynb` notebo
     ```sh
     cd CodeAlpha_Car-price-prediciton
     ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ### Usage
 
